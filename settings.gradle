@@ -1,1 +1,1 @@
-include ':app', 'com.github.AimoRain:FingerprintIdentify:1.99'
+include ':app'
